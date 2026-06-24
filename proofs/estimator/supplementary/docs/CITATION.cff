@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Explicit QROM Tightness Accounting for Lattice-Based KEM and Signature Templates"
+authors:
+  - family-names: Siddique
+    given-names: Muhammad
+version: 1.0
+date-released: 2026-06-24
+license: MIT
