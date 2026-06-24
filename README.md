@@ -1,3 +1,7 @@
+## Repository DOI
+
+https://doi.org/10.5281/zenodo.20835440
+
 # Explicit QROM Tightness Accounting for Lattice-Based KEM and Signature Templates
 
 ## Overview
